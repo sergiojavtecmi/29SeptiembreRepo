@@ -49,7 +49,7 @@ Repositorio de prueba
 
 <div class="container">
     <h2>Bienvenido</h2>
-    <p>Esta es una página de prueba creada con HTML y CSS. Puedes modificarla como desees.</p>
+    <p>Esta es una página de prueba creada ccccon HTML y CSS. Puedes modificarla como desees.</p>
     <p>¡Diviértete creando y aprendiendo!</p>
 </div>
 
